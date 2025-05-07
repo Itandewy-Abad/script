@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Definir las fechas en las que queremos hacer commits
-FECHAS=("2025-02-27" "2025-02-28" "2025-03-03" "2025-03-04" "2025-03-06" "2025-03-07" \
-        "2025-03-10" "2025-03-11" "2025-03-12" "2025-03-13" "2025-03-14" "2025-03-19")
+FECHAS=("2025-04-15" "2025-04-16" "2025-04-17" "2025-04-18" "2025-04-29" "2025-04-30" "2025-05-01" \
+        "2025-05-06")
 
 # Iterar sobre cada fecha y hacer varios commits para mayor intensidad
 for FECHA in "${FECHAS[@]}"; do
