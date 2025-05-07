@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Rango de fechas (del 01 de marzo de 2025 al 7 de mayo de 2025)
+# Rango de fechas (del 01 de enero de 2025 al 7 de mayo de 2025)
 start_date="2025-01-01"
 end_date="2025-05-07"
 
